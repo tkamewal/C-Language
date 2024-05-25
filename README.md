@@ -1,2 +1,2 @@
-# C-Language
-This is Full C++ Implementation in code.
+# CPP-Language
+This is Full C++ Implementation.
